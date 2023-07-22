@@ -3,7 +3,7 @@
   <h2 align="center">Autofix - Car Service Website</h2>
 
   Autofix is a fully responsive car service website, <br />Responsive for all devices.
-  <a href="https://codewithsadee.github.io/autofix/"><strong>➥ Live Demo</strong></a>
+  <a href="https://syr-auto-fix-prototype-demo.vercel.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -26,13 +26,13 @@ To run **Autofix** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/autofix.git
+sudo git clone https://github.com/Sufi-Yan-Raza/sc-syr-auto-fix-prototype-demo.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/autofix.git
+git clone https://github.com/Sufi-Yan-Raza/sc-syr-auto-fix-prototype-demo.git
 ```
 
 ### License
