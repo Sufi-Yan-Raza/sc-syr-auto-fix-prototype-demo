@@ -1,5 +1,11 @@
 <div align="center">
 
+  <img src="/assets/images/logo.png" />
+
+  <h2 align="center">Jack - Personal portfolio</h2>
+
+  This website is fully responsive personal portfolio, <br />Responsive for all devices.
+
   <h2 align="center">Autofix - Car Service Website</h2>
 
   Autofix is a fully responsive car service website, <br />Responsive for all devices.
